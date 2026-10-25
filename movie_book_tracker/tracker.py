@@ -1,7 +1,7 @@
 import tkinter as tk  # Pencere oluşturma araçlarını ekler.
 
 window = tk.Tk()  # Ana pencereyi açar.
-window.title("Kitap ve Dizi Takipçim")  # Pencerenin başlığını yazar.
+window.title("Movie and Book Tracker")  # Pencerenin başlığını yazar.
 window.geometry("380x500")  # Pencerenin boyutunu ayarlar.
 
 tk.Label(window, text="Ad (ör. Stranger Things - Dizi):").pack()  # Ad kutusunun açıklamasını gösterir.
