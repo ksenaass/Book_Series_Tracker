@@ -1,0 +1,17 @@
+# Python'un oluşturduğu geçici dosyalar
+__pycache__/
+*.py[cod]
+
+# Sanal ortam klasörleri
+.venv/
+venv/
+env/
+
+# Uygulamadaki kişisel kitap ve dizi kayıtları
+tracker_data.txt
+
+# Editör ve işletim sistemi dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
