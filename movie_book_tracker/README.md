@@ -1,4 +1,4 @@
-# Kitap ve Dizi Takipçim
+# Kitap ve Dizi Takipçisi
 
 Kitap ve dizileri, kalınan sayfa ve bölümleri takip etmek için tasarlanan Python programı
 ## Özellikler
@@ -13,8 +13,8 @@ Kitap ve dizileri, kalınan sayfa ve bölümleri takip etmek için tasarlanan Py
 
 Ad kutusuna kitabın veya dizinin adını yaz. Örneğin:
 
-- `Dune (Kitap)`
-- `Stranger Things (Dizi)`
+- `Suç ve Ceza (Kitap)`
+- `Friends (Dizi)`
 
 İlerleme kutusuna kaldığın yeri yaz. Örneğin:
 
